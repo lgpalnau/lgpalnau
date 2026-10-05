@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Luke 👋
 
-<!--
-**lgpalnau/lgpalnau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Software Engineer — SDLC DX Automations**
 
-Here are some ideas to get you started:
+I build deployment pipelines and SDLC DX automations that reduce software delivery friction: continuous integration, continuous delivery (CI/CD), DX improvement, and automated acceptance testing deployment pipeline gates.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work on
+- **Deployment pipelines** — Jenkins and GitHub Actions: lint, type checks, unit/integration tests, artifact publishing, staged deploys
+- **CI/CD design** — branch protection, required status checks, environments & secrets, pinned actions, rollback-ready releases
+- **Automated acceptance testing** — test suites, fixture/data-driven tests, flaky-test hardening, clear pass/fail reporting
+- **Python automation** — API integrations, data parsing/cleanup, report generation, scheduled jobs
+
+**Stack:** Python · GitHub Actions · Jenkins · Git · Docker · Linux · YAML · REST APIs / Webhooks · Kubernetes · Helm · DataDog · Jira Automations
+
+**GitLab:** Exposure ~5 years ago, refreshing GitLab CI concepts and learning Dagger to expand stack. Deep GitHub Actions experience.
+
+### Featured work to pin
+1. **github-actions-ci-samples** (to create) — Example workflows: Python lint/test/artifact pipeline, GitLab CI → Actions mapping notes
+2. **python-automation-examples** (to create) — Small documented scripts: API → clean → report
+3. Older MakeCode projects — archive or unpin so CI/CD work surfaces first
+
+### Weekend availability
+Available mainly weekends for one-time setup projects: CI from scratch, pipeline migrations, Python automation scripts. 
+
+📫 Upwork / Contra / [LinkedIn](https://www.linkedin.com/in/lukepalnau)
+
