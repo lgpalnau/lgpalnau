@@ -10,12 +10,12 @@ I build continuous delivery deployment pipelines and accompanying SDLC DX automa
 - **Automated acceptance testing** — test suites, fixture/data-driven tests, flaky-test hardening, clear pass/fail reporting
 - **Python automations** — API/git integrations, data parsing/cleanup, report generation, scheduled jobs
 
-**Stack:** Python · UV · GitHub Actions · Jenkins · OctopusDeploy · Git · Docker · Linux · YAML · REST APIs / Webhooks · Kubernetes · Helm · DataDog · Jira Automations
+**Stack:** Python · UV · GitHub Actions · Jenkins · OctopusDeploy · Git · Docker · Linux · YAML · REST APIs / Webhooks · Kubernetes · Helm · DataDog · Jira Automations · LinearB 
 
 **GitLab:** Exposure ~5 years ago, refreshing GitLab CI concepts and learning Dagger to expand stack. Deep GitHub Actions experience.
 
 ### Featured work to pin
-1. **ci-cd-examples** (to create) — Example workflows: Python lint/test/artifact pipeline, GitLab CI → Actions mapping notes
+1. [**ci-cd-examples**](https://github.com/lgpalnau/ci-cd-examples) — Example workflows: Python lint/test/artifact pipeline, GitLab CI → Actions mapping notes
 2. **dx-automation-examples** (to create) — Small documented scripts: API → clean → report
 3. Older MakeCode projects — archive or unpin so CI/CD work surfaces first
 
