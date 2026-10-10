@@ -16,8 +16,7 @@ I build continuous delivery deployment pipelines and accompanying SDLC DX automa
 
 ### Featured work to pin
 1. [**ci-cd-examples**](https://github.com/lgpalnau/ci-cd-examples) — Example workflows: Python lint/test/artifact pipeline, GitLab CI → Actions mapping notes
-2. **dx-automation-examples** (to create) — Small documented scripts: API → clean → report
-3. Older MakeCode projects — archive or unpin so CI/CD work surfaces first
+2. [**dx-automation-examples**](https://github.com/lgpalnau/sldc-automation-examples) — Small documented scripts: API → clean → report
 
 ### Weekend availability
 Available mainly weekends for one-time setup projects and consultation: CI/CD from scratch, pipeline migrations, DX automation Python scripts. 
